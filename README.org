@@ -1,3 +1,3 @@
 * My Bookmarks
 
-- [[emacs.org][Emacs]]
+- [[file:emacs.org][Emacs]]
