@@ -17,9 +17,7 @@ jobs:
       with:
         args: /github/workspace/build.sh
     - name: publish
-      uses: peaceiris/actions-gh-pages@v1.1.0
-      if: success()
-      env:
-        GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./html
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./html
