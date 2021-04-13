@@ -13,15 +13,15 @@
 
 (setq org-publish-project-alist
   `(("org-files"
-     :base-directory "."
+     :base-directory "./org/"
      :base-extension "org"
      :recursive nil
-     :publishing-directory "html/"
+     :publishing-directory "./html/"
      :publishing-function org-html-publish-to-html)
     ("static-files"
-     :base-directory "."
+     :base-directory "./org/"
      :base-extension "png\\|jpg"
-     :publishing-directory "html/"
+     :publishing-directory "./html/"
      :recursive nil
      :publishing-function org-publish-attachment)
-    ("blog" :components ("org-files" "static-files"))))
+    ("site" :components ("org-files" "static-files"))))

@@ -1,3 +1,0 @@
-* Incoming
-
-- [[https://containrrr.dev/watchtower/][Watchtower]] — container-based solution for automating Docker container base image updates

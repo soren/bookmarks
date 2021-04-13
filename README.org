@@ -1,4 +1,6 @@
 * My Bookmarks
 
-- [[file:emacs.org][Emacs]]
-- [[file:incoming.org][Incoming]]
+  This is my collection of bookmarks. They are maintained as a
+  collection of [[https://en.wikipedia.org/wiki/Org-mode][org files]] and can be browsed [[file:org/index.org][directly here on GitHub]].
+  Alternatively, you can also browse an HTML version, that is
+  available here: https://hub.369.dk/bookmarks/

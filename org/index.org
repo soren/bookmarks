@@ -1,0 +1,9 @@
+#+title: Bookmarks
+#+author: Søren Lund
+#+email: soren@lund.org
+#+options: toc:nil
+#+language: en
+#+html_head: <style>#org-div-home-and-up, #content, #postamble {max-width: 38rem; padding: 2rem; margin: auto}</style>
+
+- [[file:emacs.org][Emacs]]
+- [[file:incoming.org][Incoming]]

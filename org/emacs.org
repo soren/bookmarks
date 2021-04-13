@@ -1,0 +1,16 @@
+#+title: Emacs
+#+author: Søren Lund
+#+email: soren@lund.org
+#+options: toc:nil
+#+language: en
+#+html_link_up: index.html
+#+html_link_home: index.html
+#+html_head: <style>#org-div-home-and-up, #content, #postamble {max-width: 38rem; padding: 2rem; margin: auto}</style>
+
+* Guides
+
+- [[https://github.com/hubisan/emacs-wsl][Emacs-WSL]] — Guide and scripts for installing Emacs with the Windows Subsystem for Linux on Windows 10 using Ubuntu 20.04 LTS
+
+* FAQ
+
+- [[https://unix.stackexchange.com/a/406519][How can mouse support be enabled in terminal Emacs?]]
