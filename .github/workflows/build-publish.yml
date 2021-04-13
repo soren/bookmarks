@@ -15,8 +15,7 @@ jobs:
       uses: docker://iquiw/alpine-emacs
       if: github.event.deleted == false
       with:
-        args: ./build.sh
-      working-directory: /github/workspace
+        args: /github/workspace/build.sh
     - name: publish
       uses: peaceiris/actions-gh-pages@v1.1.0
       if: success()
