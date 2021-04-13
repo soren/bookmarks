@@ -1,7 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 
-set -euxo pipefail
+scripts_dir=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd)
+cd "$scripts_dir" || exit 1
 
-scripts_dir="$(dirname "${BASH_SOURCE[0]}")"
-cd "$scripts_dir"
 emacs -batch -q -l setup.el -f org-publish-all
