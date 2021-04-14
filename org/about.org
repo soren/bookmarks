@@ -1,0 +1,9 @@
+#+title: About
+
+* What?
+  
+  This is my collection of bookmarks.
+
+* Who?
+
+  I'm an IT consultant from Denmark.
