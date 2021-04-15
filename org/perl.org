@@ -1,0 +1,12 @@
+#+title: Perl
+
+* About Perl
+
+  [[https://www.perl.org/][Perl]] is a battle-tested, open-source programming language that can
+  be used for quick-and-dirty one-liners on the command line and
+  large-scale development. Go to [[https://www.perl.com/][perl.com]] for the latest news and
+  articles about Perl.
+
+* Get Perl
+
+- [[https://strawberryperl.com/][Strawberry Perl]] — Perl for MS Windows

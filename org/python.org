@@ -1,0 +1,11 @@
+#+title: Python
+
+* About Python
+
+  [[https://www.python.org/][Python]] is a very popular, open-source programming language that is
+  especially well-suited for data science and machine learning.
+  
+* Get Python
+
+- [[https://www.anaconda.com/products/individual][Anaconda Individual Edition]] — distribution that besides Python
+  contains conda and many scientific pacakges

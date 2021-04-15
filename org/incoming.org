@@ -22,3 +22,4 @@
 - [[https://archive.org/details/computes-programming-the-commodore-64-the-definitive-guide-revised-edition/mode/2up][Compute's Programming The Commodore 64 The Definitive Guide Revised Edition]]
 - [[https://retrogames.biz/thec64/support/upgrade-thec64][Upgrade THEC64 and THEVIC20]] — how to upgread the firmware of the THEC64
 - [[https://lemonspawn.com/][Turbo Rascal Syntax Error “;” expected but BEGIN]] — IDE for writing games/demos for e.g. the C64
+- [[https://github.com/jazzband/pip-tools][pip-tools]] — command line tools to help you keep your pip-based packages fresh

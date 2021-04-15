@@ -1,5 +1,13 @@
 #+title: Emacs
 
+* About Emacs
+
+  [[https://en.wikipedia.org/wiki/Emacs][Emacs]] is a family of text editors with the first version developed
+  in the mid-1970s. I'm using *[[https://www.gnu.org/software/emacs/][GNU Emacs]]* that is free software and
+  the most widely used variant. The core Emacs functionality can be
+  extended and highly customized using [[https://www.gnu.org/software/emacs/manual/html_node/elisp/][Emacs Lisp]]. Emacs works both in
+  a graphical desktop environment and in a text-based terminal.
+
 * Guides
 
 - [[https://github.com/hubisan/emacs-wsl][Emacs-WSL]] — Guide and scripts for installing Emacs with the Windows Subsystem for Linux on Windows 10 using Ubuntu 20.04 LTS
