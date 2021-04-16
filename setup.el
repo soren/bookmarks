@@ -32,8 +32,8 @@
      :recursive nil
      :publishing-directory "./public_html/"
      :publishing-function org-html-publish-to-html
-     :html-head "<style type=\"text/css\">body { max-width: 38rem; padding: 2rem; margin: auto; font-family: sans-serif; background: #fff; color: #000; }</style>"
-     :html-head-extra "<style type=\"text/css\">header h1 { font-size: 300%; text-align: center; background: #def; margin:0; } header nav { border-bottom: 1px solid #abc; padding-bottom: .25ex; } header nav a { text-decoration: none; color: #000; } header nav a:hover { background: #248; color: #fff; }footer { border-top: 1px solid #abc; font-style: italic; }</style>"
+     :html-head "<style type=\"text/css\">body{max-width:70ch;padding:2ch;margin:auto;font-family:sans-serif;background:#fff;color:#000}</style>"
+     :html-head-extra "<style type=\"text/css\">header{background:#f8f8fa;border-bottom:2px solid #f0f0f8;padding:1ch}header nav a{color: #000}footer{border-top:1px solid #f0f0f8;font-style:italic}</style>"
      :html-head-include-default-style nil
      :html-head-include-scripts nil
      :html-preamble html-preamble
