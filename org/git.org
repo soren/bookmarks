@@ -3,3 +3,4 @@
 * How-tos
 
 - [[https://gist.github.com/myusuf3/7f645819ded92bda6677][How effectively delete a git submodule]]
+- [[https://www.git-tower.com/learn/git/faq/undo-last-commit/][How can I undo the last commit?]]
