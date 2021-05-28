@@ -9,3 +9,7 @@
 
 - [[https://www.anaconda.com/products/individual][Anaconda Individual Edition]] — distribution that besides Python
   contains conda and many scientific pacakges
+
+* Toolchain
+
+- [[https://github.com/pyupio/safety][safety]] — checks your dependencies for known security vulnerabilities
