@@ -1,6 +1,8 @@
 #+title: Categories
 
 - [[file:emacs.org][Emacs]]
+- [[file:git.org][Git]]
 - [[file:perl.org][Perl]]
 - [[file:python.org][Python]]
+- [[file:sw-dev.org][Software Development]]
 - [[file:windows.org][Windows]]
