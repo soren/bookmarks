@@ -4,3 +4,7 @@
 
 - [[https://gist.github.com/myusuf3/7f645819ded92bda6677][How effectively delete a git submodule]]
 - [[https://www.git-tower.com/learn/git/faq/undo-last-commit/][How can I undo the last commit?]]
+
+* Alternative User Interfaces
+
+ - [[https://magit.vc/][Magit]] — a complete text-based user interface running inside [[file:emacs.org][Emacs]]
