@@ -15,7 +15,11 @@
 * FAQ
 
 - [[https://unix.stackexchange.com/a/406519][How can mouse support be enabled in terminal Emacs?]]
+
+* Tips and Tricks
   
+- [[Http://pragmaticemacs.com/emacs/use-bookmarks-to-jump-to-files-or-directories/][Use Bookmarks to Jump to Files or Directories]]
+
 * Org-Mode
 
 - [[https://orgmode.org/manual/Publishing-options.html][Options for org-mode exporters]]
