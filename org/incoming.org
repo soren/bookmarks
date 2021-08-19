@@ -27,3 +27,5 @@
 - [[https://aws.amazon.com/fis/][AWS Fault Injection Simulator]] — a fully managed service for running fault injection experiments
 - [[https://www.mikulskibartosz.name/what-is-s3-test-event/][What is s3:TestEvent, and why does it break my event processing?]]
 - [[https://stackoverflow.com/questions/40854773/can-aws-cloudwatch-alarms-detect-no-activity][Can AWS Cloudwatch alarms detect no activity?]]
+- [[https://github.com/aws-cloudformation/cloudformation-guard][AWS CloudFormation Guard]] — tool to validate CloudFormation templates with Policy-as-Code
+
