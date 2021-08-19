@@ -1,0 +1,5 @@
+#+title: Amazon Web Services (AWS)
+
+* Tools
+
+- [[https://github.com/stelligent/cfn_nag][cfn-nag]] — checks CloudFormation templates for security issues
