@@ -22,6 +22,7 @@
 
 * Org-Mode
 
+- [[https://sachachua.com/blog/2015/02/learn-take-notes-efficiently-org-mode/][Learn how to take notes more efficiently in Org Mode]]
 - [[https://orgmode.org/manual/Publishing-options.html][Options for org-mode exporters]]
 - [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][Publishing Org-mode files to HTML]]
 - [[https://thibaultmarin.github.io/blog/posts/2016-11-13-Personal_website_in_org.html][Personal website in org]]
