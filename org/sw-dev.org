@@ -8,7 +8,9 @@
 * Processes
 
 - [[https://martinfowler.com/bliki/TechnicalDebt.html][Technical Debt]] — short to-the-point explanation by Martin Fowler
-
+- [[https://12factor.net/][The Twelve-Factor App]] — best-practices for building
+  software-as-a-service (on [[https://en.wikipedia.org/wiki/Heroku][Heroku]]), but many principles are
+  applicable for building software in general
 
 * Tools
 
