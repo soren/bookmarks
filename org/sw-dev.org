@@ -24,6 +24,7 @@
 *** Pipelines
 
 - [[https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema][YAML schema]] — complete reference to YAML pipelines
+- [[https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops][Expressions]] — guide to using expressions in e.g. conditions
 - [[https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops][Templates]] — guide to using templates
 
 *** Repos
