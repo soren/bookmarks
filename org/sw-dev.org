@@ -14,19 +14,4 @@
 
 * Tools
 
-** Azure DevOps
-
-   [[https://azure.microsoft.com/services/devops/][Azure DevOps]] (ADO) is a suite of online tools to support the entire
-   lifecycle of a software project, including version control,
-   automated pipelines for building and testing, task and issue
-   tracking, documentaton, and more.
-
-*** Pipelines
-
-- [[https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema][YAML schema]] — complete reference to YAML pipelines
-- [[https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops][Expressions]] — guide to using expressions in e.g. conditions
-- [[https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops][Templates]] — guide to using templates
-
-*** Repos
-
-- [[https://objectsharp.com/blog/how-to-restore-a-deleted-azure-repo][How to restore a deleted Azure Repo]]
+  - [[file:ado.org][Azure DevOps]]
