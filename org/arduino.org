@@ -1,0 +1,11 @@
+#+title: Arduino
+
+* About Arduino
+
+  [[https://www.arduino.cc/][Arduino]] is a company that designs and manufactures single-board
+  microcontrollers. Both the hardware and related software are
+  licensed as open-source.
+
+* Tutorials
+
+  - [[https://create.arduino.cc/projecthub/aboda243/how-to-use-4-digit-7-segment-without-library-b8e014][How to use 4-digit 7-segment without library!]]
