@@ -3,6 +3,7 @@
 - [[file:aws.org][Amazon Web Services (AWS)]]
 - [[file:arduino.org][Arduino]]
 - [[file:ado.org][Azure DevOps (ADO)]]
+- [[file:computer-networks.org][Computer Networks]]
 - [[file:emacs.org][Emacs]]
 - [[file:git.org][Git]]
 - [[file:perl.org][Perl]]
