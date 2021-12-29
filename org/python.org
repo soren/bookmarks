@@ -13,3 +13,4 @@
 * Toolchain
 
 - [[https://github.com/pyupio/safety][safety]] — checks your dependencies for known security vulnerabilities
+- [[https://virtualenvwrapper.readthedocs.io/en/latest/][virtualenvwrapper]] — extends [[https://pypi.org/project/virtualenv/][virtualenv]] to make it easy to work with virtual Python environments
