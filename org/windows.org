@@ -3,4 +3,5 @@
 * How-tos
 
 - [[https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058][How to add more to Git Bash on Windows]]
+- [[https://www.tomsguide.com/news/how-to-uninstall-cortana][How to uninstall Cortana]]
 - [[https://www.howtogeek.com/224798/how-to-uninstall-windows-10s-built-in-apps-and-how-to-reinstall-them/][How to Uninstall Windows 10’s Built-in Apps (and How to Reinstall Them)]]
