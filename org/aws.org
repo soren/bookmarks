@@ -1,5 +1,13 @@
 #+title: Amazon Web Services (AWS)
 
+* Services
+
+** Amazon Relational Database Service (RDS)
+
+*** How-tos
+    - [[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html#Appendix.PostgreSQL.CommonDBATasks.Access][Common DBA tasks for PostgreSQL]]
+    - [[https://www.dailytask.co/task/how-do-i-use-postgresql-for-my-application-best-practice-ahmed-zidan][How did I manage the users and roles in my AWS PostgreSQL? best practice!]]
+
 * Tools
 
 - [[https://github.com/stelligent/cfn_nag][cfn-nag]] — checks CloudFormation templates for security issues
