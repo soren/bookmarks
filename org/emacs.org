@@ -10,7 +10,8 @@
 
 * Guides
 
-- [[https://github.com/hubisan/emacs-wsl][Emacs-WSL]] — Guide and scripts for installing Emacs with the Windows Subsystem for Linux on Windows 10 using Ubuntu 20.04 LTS
+- [[https://github.com/hubisan/emacs-wsl][Emacs-WSL]] — Guide and scripts for installing Emacs with the Windows
+  Subsystem for Linux on Windows 10 using Ubuntu 20.04 LTS
 
 * FAQ
 
@@ -22,7 +23,11 @@
 
 * Org-Mode
 
-- [[https://sachachua.com/blog/2015/02/learn-take-notes-efficiently-org-mode/][Learn how to take notes more efficiently in Org Mode]]
+- [[http://members.optusnet.com.au/~charles57/GTD/datetree.html][Capture mode and Date Trees in org-mode]]
+- [[https://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html][Orgmode for GTD]] — Guide to using Org-Mode for Getting Things Done
+  (GTD)
+- [[https://emacsclub.github.io/html/org_tutorial.html][Org-mode Tutorial / Cheat Sheet]]
 - [[https://orgmode.org/manual/Publishing-options.html][Options for org-mode exporters]]
 - [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][Publishing Org-mode files to HTML]]
+- [[https://sachachua.com/blog/2015/02/learn-take-notes-efficiently-org-mode/][Learn how to take notes more efficiently in Org Mode]]
 - [[https://thibaultmarin.github.io/blog/posts/2016-11-13-Personal_website_in_org.html][Personal website in org]]
