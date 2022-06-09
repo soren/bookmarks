@@ -12,6 +12,13 @@
   software-as-a-service (on [[https://en.wikipedia.org/wiki/Heroku][Heroku]]), but many principles are
   applicable for building software in general
 
+* Anti-Patterns
+
+- [[https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/][Falsehoods Programmers Believe About Names]] — wrong assumptions
+  regarding people's names
+- [[https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca][Falsehoods programmers believe about time]] — wrong assumptions
+  regarding time
+
 * Tools
 
   - [[file:ado.org][Azure DevOps]]
