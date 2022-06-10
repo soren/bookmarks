@@ -7,6 +7,14 @@
   automated pipelines for building and testing, task and issue
   tracking, documentaton, and more.
 
+** Azure DevOps CLI
+
+- [[https://www.bryancook.net/2020/07/azure-devops-cli-examples.html][Azure DevOps CLI Examples]] — Quick guide on how to install,
+  configure, and use =az devops=. Includes introduction to JMESPath
+  queries.
+- [[https://docs.microsoft.com/en-us/azure/devops/cli/log-in-via-pat?view=azure-devops&tabs=windows][Sign in with a personal access token (PAT)]] — short description of
+  various ways to authenticate with a personal access token.
+
 ** Azure Pipelines
 
    - [[https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema][YAML schema]] — complete reference to YAML pipelines
