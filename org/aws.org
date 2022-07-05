@@ -11,4 +11,5 @@
 * Tools
 
 - [[https://github.com/stelligent/cfn_nag][cfn-nag]] — checks CloudFormation templates for security issues
+- [[https://github.com/rebuy-de/aws-nuke][aws-nuke]] — destroy (all) resources from AWS account
 - [[https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-command-reference.html][AWS SAM CLI command reference]] — reference for the AWS SAM CLI command: =sam=
