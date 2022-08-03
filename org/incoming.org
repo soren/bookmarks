@@ -30,3 +30,4 @@
 - [[https://github.com/aws-cloudformation/cloudformation-guard][AWS CloudFormation Guard]] — tool to validate CloudFormation templates with Policy-as-Code
 - [[https://github.com/bloomberg/memray][memray]] — Python memory profiler (Linux only)
 - [[https://github.com/rancher-sandbox/rancher-desktop][Rancher Desktop]] —  open-source alternative to Docker Desktop
+- [[https://github.com/dcmoura/spyql][SpyQL]] — SQL-like query language for CSV, JSON, TEXT, and Python iterators
