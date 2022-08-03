@@ -29,3 +29,4 @@
 - [[https://stackoverflow.com/questions/40854773/can-aws-cloudwatch-alarms-detect-no-activity][Can AWS Cloudwatch alarms detect no activity?]]
 - [[https://github.com/aws-cloudformation/cloudformation-guard][AWS CloudFormation Guard]] — tool to validate CloudFormation templates with Policy-as-Code
 - [[https://github.com/bloomberg/memray][memray]] — Python memory profiler (Linux only)
+- [[https://github.com/rancher-sandbox/rancher-desktop][Rancher Desktop]] —  open-source alternative to Docker Desktop
